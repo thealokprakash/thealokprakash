@@ -1,6 +1,14 @@
-Alok Prakash
+Hi, I'm Alok Prakash 👋
+Welcome to my GitHub profile!
+Mechanical engineer and materials researcher with an M.Tech in Design and Manufacturing from NIT Silchar. My research focuses on dissimilar metal joining, welding metallurgy, materials characterisation, and the relationship between microstructure and mechanical properties. My broader interests include computational mechanics, advanced manufacturing, and automotive engineering. I also work on electric vehicle product development, mechanical system validation, and manufacturing process improvement. I'm interested in technology, software development, and building projects that solve real-world problems.
 
-Mechanical engineer and materials researcher with an M.Tech in Design and Manufacturing from NIT Silchar. My research focuses on dissimilar metal joining, welding metallurgy, materials characterisation, and the relationship between microstructure and mechanical properties. My broader interests include computational mechanics, advanced manufacturing, and automotive engineering. I also work on electric vehicle product development, mechanical system validation, and manufacturing process improvement.
+🌱 Currently learning and improving my technical skills
+💻 Exploring software development and open-source projects
+🚀 Building projects and learning by doing
+🌐 Portfolio: thealokprakash.github.io
+📫 GitHub: @thealokprakash
+
+
 
 Academic Website · Google Scholar · LinkedIn
 

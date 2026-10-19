@@ -1,4 +1,4 @@
-Hi, I'm Alok Prakash 👋
+# Hi, I'm **Alok Prakash** 👋
 Welcome to my GitHub profile!
 ⚙️ **Mechanical Engineer | Materials Science | Computational Mechanics**
 

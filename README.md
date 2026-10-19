@@ -1,4 +1,3 @@
-# alokprakash
 # Hi, I'm Alok Prakash 👋
 
 ### Welcome to my GitHub profile!

@@ -1,6 +1,12 @@
 Hi, I'm Alok Prakash 👋
 Welcome to my GitHub profile!
-Mechanical engineer and materials researcher with an M.Tech in Design and Manufacturing from NIT Silchar. My research focuses on dissimilar metal joining, welding metallurgy, materials characterisation, and the relationship between microstructure and mechanical properties. My broader interests include computational mechanics, advanced manufacturing, and automotive engineering. I also work on electric vehicle product development, mechanical system validation, and manufacturing process improvement. I'm interested in technology, software development, and building projects that solve real-world problems.
+⚙️ **Mechanical Engineer | Materials Science | Computational Mechanics**
+
+Mechanical engineer with an M.Tech in Design and Manufacturing from **NIT Silchar**. My research focuses on dissimilar metal joining, welding metallurgy, materials characterisation, and microstructure–property relationships. My broader interests include computational mechanics, advanced manufacturing, automotive engineering, and engineering optimisation.
+
+My industry experience spans electric vehicle development, mechanical system validation, materials testing, failure analysis, and manufacturing process development.
+
+🌐 [Academic Website](https://thealokprakash.github.io) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=iQqaaKMAAAAJ) · 💼 [LinkedIn](https://www.linkedin.com/in/thealokprakash/)
 
 🌱 Currently learning and improving my technical skills
 💻 Exploring software development and open-source projects
@@ -8,73 +14,40 @@ Mechanical engineer and materials researcher with an M.Tech in Design and Manufa
 🌐 Portfolio: thealokprakash.github.io
 📫 GitHub: @thealokprakash
 
+## 🔬 Research Interests
 
+- 🧪 **Materials Science & Welding Metallurgy** — Dissimilar metal joining, TIG/P-TIG welding, nickel interlayers, and weld characterisation.
+- 📐 **Computational Mechanics** — Numerical simulation, finite element analysis, structural mechanics, and optimisation.
+- 🏭 **Advanced Manufacturing** — Manufacturing processes, material selection, lightweight structures, and design for manufacturability.
+- 🛵 **Automotive & EV Engineering** — Mechanical design, electric vehicle systems, component validation, and reliability engineering.
+- 📊 **Data-Driven Engineering** — Statistical analysis, scientific computing, and predictive modelling.
 
-Academic Website · Google Scholar · LinkedIn
+## 📚 Publications
 
-Research Interests
+- **Effect of P-TIG Welding Technique on the Microstructure and Mechanical Properties of Dissimilar Welded Inconel 718 and AISI 321 Butt Joint** — *Lecture Notes in Mechanical Engineering, Springer, 2025.* [DOI](https://doi.org/10.1007/978-981-96-6632-4_4)
+- **Conjugated Numerical Simulation and Statistical Method Based Approach for Material Selection in Case of Automotive Chassis** — *International Journal of All Research Education and Scientific Methods, 2021.*
 
-Materials science and welding metallurgy
+## 🏗️ Engineering Background
 
-Computational mechanics and numerical simulation
+I have worked in electric vehicle development at **Baaz Bikes and EMotorad**, contributing to mechanical subsystem design, materials qualification, thermal validation, failure analysis, and manufacturing process improvement. My academic experience includes experimental materials research at NIT Silchar, automotive chassis material selection, and student motorsport engineering through SUPRA SAEINDIA and go-kart competitions.
 
-Mechanical design and advanced manufacturing
+## 🛠️ Technical Skills
 
-Automotive engineering and lightweight structures
+- **Design & Simulation:** SolidWorks, ANSYS/FEA, GD&T
+- **Materials & Testing:** TIG/P-TIG welding, SEM-EDS, EBSD, tensile testing, microhardness, corrosion testing
+- **Scientific Computing:** Python, NumPy, SciPy, statistical analysis
+- **Engineering:** Mechanical design, material selection, failure analysis, manufacturing optimisation
 
-Data-driven engineering and optimisation
+## 🔗 Further Information
 
-Publications
+- 📄 [Academic CV & Research Portfolio](https://thealokprakash.github.io)
+- 🎓 [Google Scholar & Publications](https://scholar.google.com/citations?user=iQqaaKMAAAAJ)
+- 💻 [GitHub Repositories](https://github.com/thealokprakash?tab=repositories)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/thealokprakash/)
 
-Effect of P-TIG Welding Technique on the Microstructure and Mechanical Properties of Dissimilar Welded Inconel 718 and AISI 321 Butt Joint — Lecture Notes in Mechanical Engineering, Springer, 2025. DOI
+---
 
-Conjugated Numerical Simulation and Statistical Method Based Approach for Material Selection in Case of Automotive Chassis — IJARESM, 2021.
-
-Engineering Background
-
-I have experience in electric vehicle development at Baaz Bikes and EMotorad, working across mechanical subsystem design, materials qualification, thermal validation, failure analysis, and manufacturing process development. My academic background includes experimental materials research at NIT Silchar and automotive engineering projects through SUPRA SAEINDIA and go-kart competitions.
-
-Further Information
-
-Academic CV and Research Portfolio
-
-Google Scholar
-
-GitHub Repositories
-
-LinkedIn Profile
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Hi, I'm Alok Prakash 👋
-
-### Welcome to my GitHub profile!
-
-I'm interested in technology, software development, and building projects that solve real-world problems.
-
-- 🌱 Currently learning and improving my technical skills
-- 💻 Exploring software development and open-source projects
-- 🚀 Building projects and learning by doing
-- 🌐 **Portfolio:** [thealokprakash.github.io](https://thealokprakash.github.io/)
-- 📫 **GitHub:** [@thealokprakash](https://github.com/thealokprakash)
+⭐ *Research interests: materials science, welding metallurgy, computational mechanics, advanced manufacturing, and mechanical engineering systems.*
 
 ---
 

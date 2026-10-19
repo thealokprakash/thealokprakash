@@ -53,7 +53,6 @@ I have worked in electric vehicle development at **Baaz Bikes and EMotorad**, co
 
 ### 🛠️ Technologies & Tools
 
-Add the technologies you actually use here.
 
 `Python` · `HTML` · `CSS` · `JavaScript` · `Git` · `GitHub`
 

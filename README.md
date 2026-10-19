@@ -9,11 +9,11 @@ My industry experience spans electric vehicle development, mechanical system val
 
 🌐 [Academic Website](https://thealokprakash.github.io) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=iQqaaKMAAAAJ) · 💼 [LinkedIn](https://www.linkedin.com/in/thealokprakash/)
 
-🌱 Currently learning and improving my technical skills
-💻 Exploring software development and open-source projects
-🚀 Building projects and learning by doing
-🌐 Portfolio: thealokprakash.github.io
-📫 GitHub: @thealokprakash
+🌱 Currently learning and improving my technical skills  
+💻 Exploring software development and open-source projects  
+🚀 Building projects and learning by doing  
+🌐 Portfolio: [thealokprakash.github.io](https://thealokprakash.github.io)  
+📫 GitHub: [@thealokprakash](https://github.com/thealokprakash)
 
 ## 🔬 Research Interests
 

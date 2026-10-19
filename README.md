@@ -1,7 +1,7 @@
 # Hi, I'm **Alok Prakash** 👋
 Welcome to my GitHub profile!
 
-⚙️ Mechanical Engineer | 🔬 Materials Science | 🧮 Computational Mechanics | 🏭 Advanced Manufacturing
+⚙️ **Mechanical Engineer** | 🔬 **Materials Science** | 🧮 Computational Mechanics | 🏭 Advanced Manufacturing
 
 Mechanical engineer with an M.Tech in Design and Manufacturing from **NIT Silchar**. My research focuses on dissimilar metal joining, welding metallurgy, materials characterisation, and microstructure–property relationships. My broader interests include computational mechanics, advanced manufacturing, automotive engineering, and engineering optimisation.
 
